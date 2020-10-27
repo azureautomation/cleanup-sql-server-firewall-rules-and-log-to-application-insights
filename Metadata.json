@@ -1,0 +1,20 @@
+{
+    "Author": "Ahmed Balogun",
+    "ContentSize": 5250,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/cleanup-sql-server-firewall-rules-and-log-to-application-insights/master/CleanUpIPAddress.ps1",
+    "DownloadCount": 690,
+    "Id": "Delete-SQL-Server-Firewall-43f784e0",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 466,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2018-8-31T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This runbook is designed to purge Azure SQL Server firewall rules not specified on a defined safe list & log the outcome in App Insights for audit purposes. A runbook like this should be implemented to regularly delete white-listed IP addresses as standard security practice",
+    "Title": "Cleanup SQL Server Firewall Rules and Log to Application Insights",
+    "UpdatedDate": "2018-9-4T00:00:00",
+    "Url": "https://github.com/azureautomation/cleanup-sql-server-firewall-rules-and-log-to-application-insights",
+    "UserTags": "Utility, Firewall, Windows Azure SQL Database"
+}
